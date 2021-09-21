@@ -12,7 +12,7 @@ First, read this entire document before starting your work on the task. You'll g
 
 For every part of the task please do the following:
 1. Create a new branch from `main`
-2. Once you’re done with the feature, you should create a pull request towards your `main` branch and assign our engineers ([Denis](https://github.com/dingo-d/) and [Ivan](https://github.com/IvanGrginovInf)) to review your pull request. They might leave some questions here and there, inquiring how you did a certain feature. You may even create a pull request early on, mark it as work in progress and assign reviewers. That way we can be quicker in reviewing your code changes.
+2. Once you’re done with the feature, you should create a pull request towards your `main` branch and assign our engineers ([Denis](https://github.com/dingo-d/) and [Gabriel](https://github.com/gabriel-glo)) to review your pull request. They might leave some questions here and there, inquiring how you did a certain feature. You may even create a pull request early on, mark it as work in progress and assign reviewers. That way we can be quicker in reviewing your code changes.
 3. Once your feature is approved, merge it to `main`
 
 Note: You should probably invite our engineers to your repository, so that you can assign them to the PR and they can leave questions and comments for you.
