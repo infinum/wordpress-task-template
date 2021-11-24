@@ -55,7 +55,7 @@ Once you've done that, create a PR and assign the reviewers to check it out.
 
 ##### 🎉 Tips and tricks
 
-Some blocks are a bit different than the others. The one you should create is also a bit different. Hint: [Server side rendering](https://infinum.github.io/eightshift-docs/docs/basics/blocks-intro#do-i-need-to-write-js-and-php-implementation-for-all-my-blocks).
+Some blocks are a bit different than the others. The one you should create is also a bit different. Hint: [Server side rendering](https://infinum.github.io/eightshift-docs/docs/legacy/v5/basics/blocks-intro/#do-i-need-to-write-js-and-php-implementation-for-all-my-blocks).
 
 ## 🎓 Final task
 
