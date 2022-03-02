@@ -33,6 +33,10 @@ Disable the core WordPress blocks, so that only the Eightshift ones are left.
 
 Do this in a separate branch, create a PR and assign the reviewers to check it out.
 
+#### Note
+
+Make sure not to commit WordPress core files. Adding those makes it impossible to review your code.
+
 ## 🎓 Second task
 
 Once you're finished with setting the basic theme up, in a separate branch, create a way to fetch some data from a public API. You can choose any of the free public APIs from this list:
