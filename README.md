@@ -19,7 +19,10 @@ Note: You should probably invite our engineers to your repository, so that you c
 
 ### 🚀 Prerequisites
 
-You should have a local development setup ready. You can check out our [handbook](https://infinum.com/handbook/books/wordpress) for some of the development environments we are using in our day to day lives. If you're on MacOS, the easiest to set up is probably Laravel Valet. On Windows you can use whatever you're comfortable with. VVV has a lot of usefull tools already setup that can help you with your development.
+You should have a local development setup ready. You can check out our [handbook](https://infinum.com/handbook/books/wordpress) for some of the development environments we are using in our day to day lives. If you're on MacOS, the easiest to set up is probably Laravel Valet. On Windows, we recommend using [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install) or one of VM solutions like: [VVV](https://varyingvagrantvagrants.org/) or [Laravel Homestead](https://laravel.com/docs/homestead). 
+
+#### Note 
+Due to the way VM solutions are working, you'll need to run all relevant commands inside the virtual environment. They include installation, setup and build scripts.
 
 You should have [Node.js](https://nodejs.org/en/), [Composer](https://getcomposer.org/), and [WP-CLI](https://wp-cli.org/) installed in order to fully explore the power of the [Eightshift development kit](https://infinum.github.io/eightshift-docs/).
 
